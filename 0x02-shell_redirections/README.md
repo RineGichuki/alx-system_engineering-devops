@@ -1,1 +1,1 @@
-Script that prints "Hello, World" followed by anew line to the standard output
+Hello, World Script
